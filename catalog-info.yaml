@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app-66
+  description: Aplicação Python que mostra o host e as horas, chamado python-app-66
+  annotations:
+    github.com/project-slug: mgsantos89/python-app-66
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental
